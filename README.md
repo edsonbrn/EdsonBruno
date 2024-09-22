@@ -2,7 +2,7 @@
 
 I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
 
-  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, Typescript, React,  PHP, Laravel,  C++, Java, Spring Boot, Scrum, CI/CD**
+  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, Typescript, React,  PHP, Laravel, Java, Spring Boot, Scrum, CI/CD**
   - ⚡ Fun fact: I look like a hobbit.
   - 👨‍💻 Portfolio: **https://edsonbrn.github.io/portfolio-web/**
 
